@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: Publications in reversed chronological order.
 order: 1
-years_journals: [2020]
+years_journals: [2021,2020]
 years_conferences: [2021]
 nav: true
 ---

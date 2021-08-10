@@ -20,24 +20,11 @@ b, strong { font-weight: 600; }
 **Gamblers Learn from Experience**
   - with [Joshua Blumenstock](http://www.jblumenstock.com/), UC Berkeley.
 
-  - Mobile phone-based gambling has grown wildly popular in Africa. Commentators worry that low ability gamblers will not learn from experience, and may rely on debt to gamble. Using data on financial transactions for over 50 000 Kenyan smartphone users, we find that gamblers do learn from experience. Gamblers are less likely to bet following poor results and more likely to bet following good results. The reaction to positive and negative feedback is of equal magnitude, and is consistent with a model of Bayesian updating. Using an instrumental variables strategy, we find no evidence that increased gambling leads to increased demand for debt.
+  - Mobile phone-based sports betting has exploded in popularity in many African countries.  Commentators worry that low-ability gamblers will not learn from experience, and may rely on debt to gamble.  Using data on financial transactions for over 50 000 Kenyan smartphone users, we find that gamblers do learn from experience. Gamblers are less likely to bet following poor results and more likely to bet following good results.  The reaction to positive and negative feed-back is of equal magnitude and is consistent with a model of Bayesian updating. Using an instrumental variables strategy,  we find no evidence that increased gambling leads to increased debt.
 
   - <i class="far fa-file-pdf"></i> [arXiv:2011.00432](https://arxiv.org/pdf/2011.00432.pdf)
 
 <br>
-
-
-
-
-**On Track for Retirement?**
-
-  - Over sixty percent of employees at a large South African company contribute only the minimum rate of 7.5 percent of their salary to a retirement fund---far below the rate of 15 percent recommended by financial advisers. I use a field experiment to investigate whether providing employees with a retirement calculator, which shows projections of retirement income, leads to increases in contributions. The impact is negligible. The lack of response to the calculator suggests many employees may wish to save less than the 7.5 percent minimum. I provide a model of asymmetric information to explain the current equilibrium.
-
-  - <i class="far fa-file-pdf"></i> [arXiv:2005.01692](https://arxiv.org/pdf/2005.01692.pdf)
-  - Revision requested at the *Journal of Economic Behavior & Organisation*
-
-<br>
-
 
 
 
